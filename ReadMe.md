@@ -1,1 +1,1 @@
-This file is being used to try-out devops tools
+This repo is being used to try-out devops tools
